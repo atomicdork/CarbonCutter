@@ -1,0 +1,9 @@
+sheet number0 number of samples4 Sample size 17.5 x 120.0
+0: Ply: y8.0h2.5lay0 pos: [20.0, 20.0]       8: Ply: y12.0h2.5lay0 pos: [20.0, 20.0]
+1: Ply: y8.0h2.5lay0 pos: [20.0, 20.0]       9: Ply: y12.0h2.5lay0 pos: [20.0, 20.0]
+2: Ply: y8.0h2.5lay0 pos: [20.0, 20.0]       10: Ply: y12.0h2.5lay0 pos: [20.0, 20.0]
+3: Ply: y8.0h2.5lay0 pos: [20.0, 20.0]       11: Ply: y12.0h2.5lay0 pos: [20.0, 20.0]
+4: Ply: y10.0h2.5lay0 pos: [20.0, 20.0]       12: Ply: y50.0h2.5lay0 pos: [20.0, 20.0]
+5: Ply: y10.0h2.5lay0 pos: [20.0, 20.0]       13: Ply: y50.0h2.5lay0 pos: [20.0, 20.0]
+6: Ply: y10.0h2.5lay0 pos: [20.0, 20.0]       14: Ply: y50.0h2.5lay0 pos: [20.0, 20.0]
+7: Ply: y10.0h2.5lay0 pos: [20.0, 20.0]       15: Ply: y50.0h2.5lay0 pos: [20.0, 20.0]
